@@ -4,8 +4,6 @@
 
 ### 🏗️ Project Architecture
 
-![workflow](assets/workflow.svg)
-
 <p align="center">
   <img src="assets/workflow.svg" width="600"/>
 </p>
