@@ -4,7 +4,7 @@
 
 
 
-![workflow](assets/Untitled Diagram.drawio (4).svg)
+![workflow](assets/workflow.svg)
 
 
 ### 🔎 Problem Statement
