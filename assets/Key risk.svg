@@ -2,35 +2,39 @@
 
   <!-- Card 1 -->
   <rect x="20" y="20" width="450" height="200" rx="20" fill="#0F172A"/>
-  <text x="40" y="60" fill="#FFFFFF" font-size="18" font-weight="bold">💥 Explosion Risk</text>
+  <circle cx="50" cy="50" r="8" fill="#FF4D4D"/>
+  <text x="70" y="55" fill="#FFFFFF" font-size="18" font-weight="bold">Explosion Risk</text>
   <text x="40" y="90" fill="#CBD5F5" font-size="14">
-    <tspan x="40" dy="0">Pressurized cylinders (CNG, LPG) can detonate</tspan>
-    <tspan x="40" dy="18">during shredding.</tspan>
-    <tspan x="40" dy="18">Even one undetected cylinder → catastrophic damage.</tspan>
+    <tspan x="40" dy="0">Pressurized cylinders can detonate</tspan>
+    <tspan x="40" dy="18">during shredding operations.</tspan>
+    <tspan x="40" dy="18">Even one missed → catastrophic damage.</tspan>
   </text>
 
   <!-- Card 2 -->
   <rect x="520" y="20" width="450" height="200" rx="20" fill="#0F172A"/>
-  <text x="540" y="60" fill="#FFFFFF" font-size="18" font-weight="bold">⚠️ Manual Sorting Failures</text>
+  <polygon points="540,45 550,65 530,65" fill="#FFC107"/>
+  <text x="570" y="55" fill="#FFFFFF" font-size="18" font-weight="bold">Manual Sorting Failures</text>
   <text x="540" y="90" fill="#CBD5F5" font-size="14">
-    <tspan x="540" dy="0">Conveyor speeds (1–3 m/s) reduce accuracy.</tspan>
-    <tspan x="540" dy="18">15–25% items missed due to fatigue & visibility.</tspan>
+    <tspan x="540" dy="0">High conveyor speed reduces accuracy.</tspan>
+    <tspan x="540" dy="18">15–25% hazardous items are missed.</tspan>
   </text>
 
   <!-- Card 3 -->
   <rect x="20" y="260" width="450" height="200" rx="20" fill="#0F172A"/>
-  <text x="40" y="300" fill="#FFFFFF" font-size="18" font-weight="bold">🌍 Environmental Contamination</text>
+  <circle cx="50" cy="290" r="10" fill="#4CAF50"/>
+  <text x="70" y="295" fill="#FFFFFF" font-size="18" font-weight="bold">Environmental Contamination</text>
   <text x="40" y="330" fill="#CBD5F5" font-size="14">
-    <tspan x="40" dy="0">Shock absorbers leak toxic hydraulic fluids.</tspan>
-    <tspan x="40" dy="18">Causes soil and groundwater pollution.</tspan>
+    <tspan x="40" dy="0">Hydraulic oil leaks contaminate soil</tspan>
+    <tspan x="40" dy="18">and groundwater resources.</tspan>
   </text>
 
   <!-- Card 4 -->
   <rect x="520" y="260" width="450" height="200" rx="20" fill="#0F172A"/>
-  <text x="540" y="300" fill="#FFFFFF" font-size="18" font-weight="bold">🤖 Our Solution</text>
+  <rect x="535" y="275" width="20" height="20" fill="#6366F1"/>
+  <text x="570" y="295" fill="#FFFFFF" font-size="18" font-weight="bold">Our Solution</text>
   <text x="540" y="330" fill="#CBD5F5" font-size="14">
-    <tspan x="540" dy="0">Real-time detection using YOLOv8 + FastAPI.</tspan>
-    <tspan x="540" dy="18">Web dashboard for monitoring & alerts.</tspan>
+    <tspan x="540" dy="0">YOLOv8 real-time detection system</tspan>
+    <tspan x="540" dy="18">with FastAPI dashboard.</tspan>
   </text>
 
 </svg>
