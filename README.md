@@ -13,6 +13,6 @@ This creates a need for an **automated, real-time detection system**.
 
 ---
 
-## ⚠️ Key Risks & Challenges
+### ⚠️ Key Risks & Challenges
 
 ![Key Risk](assets/key_risk.svg)
