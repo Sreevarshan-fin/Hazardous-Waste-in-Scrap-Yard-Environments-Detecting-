@@ -5,7 +5,7 @@
 ### 🏗️ Project Architecture
 
 <p align="center">
-  <img src="assets/workflow.svg" width="600"/>
+  <img src="assets/workflow.svg" width="750"/>
 </p>
 
 ---
