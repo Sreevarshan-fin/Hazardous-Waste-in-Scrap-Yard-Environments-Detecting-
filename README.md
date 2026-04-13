@@ -13,4 +13,4 @@ Manual inspection is unreliable due to **high conveyor speeds, fatigue, and limi
 This creates a critical need for an **automated, real-time detection system** to improve safety and operational efficiency.
 
 
-![Key Risk](assets/assets/key_risk.svg)
+![Key Risk](assets/key_risk.svg)
