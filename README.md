@@ -1,4 +1,4 @@
-# Hazardous-Waste-in-Scrap-Yard-Environments-Detecting-
+<h1 align="center">Hazardous Waste Detection in Scrap Yard Environments</h1>
 
 
 
