@@ -4,6 +4,9 @@
 
 
 
+![workflow](assets/Untitled Diagram.drawio (4).svg)
+
+
 ### 🔎 Problem Statement
 
 Scrap yards handle **large volumes of mixed metal waste**, where hazardous items like pressurized cylinders and oil-filled shock absorbers often go unnoticed.
