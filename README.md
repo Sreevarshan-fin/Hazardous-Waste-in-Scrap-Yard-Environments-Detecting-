@@ -1,12 +1,14 @@
 <h1 align="center">Hazardous Waste Detection in Scrap Yard Environments</h1>
 
-
+----------
 
 ### 🏗️ Project Architecture
 
 <p align="center">
   <img src="assets/workflow.svg" width="600"/>
 </p>
+
+---
 
 ### 🔎 Problem Statement
 
@@ -21,5 +23,7 @@ This creates a need for an **automated, real-time detection system**.
 
 ![Key Risk](assets/key_risk.svg)
 
+
+---
 
 ### 🎯 Targeted Classes
