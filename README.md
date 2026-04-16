@@ -8,6 +8,9 @@
   <img src="assets/workflow.svg" width="750"/>
 </p>
 
+<p align="center">
+  <img src="assets/workflow_2.svg" width="750"/>
+</p>
 ---
 
 ### 🔎 Problem Statement
