@@ -5,7 +5,6 @@
 <p align="center">
   <img src="assets/workflow_2.svg" width="1000"/>
 </p>
-
 ---
 
 ### 🔎 Problem Statement
