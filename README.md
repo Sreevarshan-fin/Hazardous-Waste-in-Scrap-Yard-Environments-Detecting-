@@ -5,12 +5,9 @@
 ### 🏗️ Project Architecture
 
 <p align="center">
-  <img src="assets/workflow.svg" width="750"/>
+  <img src="assets/workflow_2.svg" width="1000"/>
 </p>
 
-<p align="center">
-  <img src="assets/workflow_2.svg" width="750"/>
-</p>
 ---
 
 ### 🔎 Problem Statement
