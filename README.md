@@ -10,10 +10,13 @@
 
 ### 🔎 Problem Statement
 
-Scrap yards handle **large volumes of mixed metal waste**, where hazardous items like pressurized cylinders and oil-filled shock absorbers often go unnoticed.
-Missed detection can lead to **explosions, environmental damage, and worker injuries**.
-Manual inspection is unreliable due to **speed, fatigue, and visibility issues**, causing **15–25% miss rates**.
-This creates a need for an **automated, real-time detection system**.
+Scrap yards process **large volumes of mixed metal waste**, where hazardous objects such as pressurized cylinders, shock absorbers, and sealed containers often go undetected.
+
+Failure to identify these items can result in **explosions, equipment damage, environmental hazards, and worker injuries**.
+
+Manual inspection is **inefficient and error-prone**, with estimated **15–25% miss rates** due to fatigue, speed constraints, and poor visibility.
+
+👉 This highlights the need for an **automated, real-time hazard detection and decision system**.
 
 ---
 
