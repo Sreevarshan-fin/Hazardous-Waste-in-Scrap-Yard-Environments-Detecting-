@@ -3,7 +3,7 @@
 ----------
 
 <p align="center">
-  <img src="assets/workflow_2.png"/>
+  <img src="assets/workflow.png"/>
 </p>
 
 ---
