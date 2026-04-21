@@ -8,22 +8,25 @@
 
 ---
 
+
 ### 🔎 Problem Statement
 
-Scrap yards process **large volumes of mixed metal waste**, where hazardous objects such as pressurized cylinders, shock absorbers, and sealed containers often go undetected.
+Scrap yards process **1000+ tons of mixed metal waste**, where hazardous objects such as pressurized cylinders, shock absorbers, sealed tanks, and electrical components are often difficult to identify during sorting operations.
 
-Failure to identify these items can result in **explosions, equipment damage, environmental hazards, and worker injuries**.
+Failure to detect such materials can result in **explosions, fires, equipment damage, and worker injuries**, especially during shredding or crushing processes, leading to **operational downtime and financial losses**.
 
-Manual inspection is **inefficient and error-prone**, with estimated **15–25% miss rates** due to fatigue, speed constraints, and poor visibility.
+Current inspection methods rely on **manual monitoring**, which is slow, inconsistent, and prone to human error. Factors such as fatigue and high processing speed contribute to estimated miss rates of **15–25%**, making manual inspection unreliable for real-time industrial environments.
 
-👉 This highlights the need for an **automated, real-time hazard detection and decision system**.
+Additionally, certain components like motors may still have **residual value**, but are often misclassified as scrap, resulting in **loss of potential revenue**.
 
----
+👉 Therefore, there is a need for an **automated, real-time hazard detection and decision-making system** that can:
 
-### ⚠️ Key Risks & Challenges
-
-![Key Risk](assets/key_risk.svg)
-
+* Accurately identify hazardous objects
+* Trigger appropriate actions (alerts, isolation, safe handling)
+* Improve workplace safety and reduce accidents
+* Enhance operational efficiency and reduce downtime
+* Enable intelligent decision-making
+* Support value recovery from reusable components like motors
 
 ---
 
