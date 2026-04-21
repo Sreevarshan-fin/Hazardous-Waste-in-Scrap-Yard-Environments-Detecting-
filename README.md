@@ -15,7 +15,7 @@ Scrap yards process **1000+ tons of mixed metal waste**, where hazardous objects
 
 Failure to detect such materials can result in **explosions, fires, equipment damage, and worker injuries**, especially during shredding or crushing processes, leading to **operational downtime and financial losses**.
 
-Current inspection methods rely on **manual monitoring**, which is slow, inconsistent, and prone to human error. Factors such as fatigue and high processing speed contribute to estimated miss rates of **15–25%**, making manual inspection unreliable for real-time industrial environments.
+Current inspection methods rely on **manual monitoring**, which is slow, inconsistent, and prone to human error. Factors such as **fatigue and high processing speed contribute to estimated miss rates of 15–25%**, making manual inspection unreliable for real-time industrial environments.
 
 Additionally, certain components like motors may still have **residual value**, but are often misclassified as scrap, resulting in **loss of potential revenue**.
 
