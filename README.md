@@ -8,12 +8,6 @@
 
 ---
 
-You’re very close 👍 — you just need **smooth flow (continuation)** between sections.
-
-Here’s your **final polished version with proper transition** 👇
-
----
-
 # 🔎 Problem Statement
 
 Scrap yards process **1000+ tons of mixed metal waste**, where hazardous objects such as pressurized cylinders, shock absorbers, sealed tanks, capacitors, and other industrial components are difficult to identify during sorting operations.
@@ -33,7 +27,7 @@ In addition, certain components such as motors may still retain **functional or 
 * **Reputation & Workforce Impact** – loss of trust, low morale, reduced productivity
 
 
-👉 Therefore, there **need to address these challenges** through an **automated, real-time hazard detection and decision-making system** that can:
+👉 Therefore, there is a **need to address these challenges** through an **automated, real-time hazard detection and decision-making system** that can:
 
 * Continuously monitor scrap materials without human dependency
 * Accurately detect hazardous objects in real time
