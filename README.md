@@ -53,3 +53,9 @@ In addition, certain components such as motors may still retain **functional or 
 | **Fire_Extinguisher** | Pressurized chemical container     | Explosion or chemical exposure         | Detect → Remove → Depressurize → Safe recycle            | Releasing pressure avoids blast risk                     | Ensures safety & regulatory compliance      |
 
 
+---
+
+<p align="center">
+  <img src="assets/confusion_matrix.png"/>
+</p>
+
