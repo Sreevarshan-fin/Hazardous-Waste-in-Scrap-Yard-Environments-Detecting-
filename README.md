@@ -56,5 +56,5 @@ In addition, certain components such as motors may still retain **functional or 
 ---
 
 <p align="center">
-  <img src="assets/confusion_matrix.png" width="100%"/>
+  <img src="assets/confusion_matrix.svg" width="100%"/>
 </p>
