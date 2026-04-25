@@ -2,8 +2,10 @@
 
 ----------
 
-<h1 align="center">End-to-End System for Hazardous Waste Detection in Scrap Yard <p align="center">
+<h1 align="center">End-to-End System for Hazardous Waste Detection in Scrap Yard</h1>
   
+  
+  <p align="center">
   <img src="assets/workflow_5.png",width="100%"/>
 </p>
 
