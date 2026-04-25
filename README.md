@@ -1,10 +1,12 @@
-<h1 align="center" style" = -size:25px;font"> Hazardous Waste Detection in Scrap Yard Environments</h1>
-
-----------
-
-<h1 align="center" style="-size:15px;font">
-  End-to-End System for Hazardous Waste Detection in Scrap Yard
+<h1 align="center" style="font-size:25px;">
+  Hazardous Waste Detection in Scrap Yard Environments
 </h1>
+
+---
+
+<h2 align="center" style="font-size:15px;">
+  End-to-End System for Hazardous Waste Detection in Scrap Yard
+</h2>
   
   
   <p align="center">
