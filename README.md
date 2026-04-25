@@ -2,7 +2,7 @@
 
 ----------
 
-<h1 align="center" style="-size:25px;font">
+<h1 align="center" style="-size:15px;font">
   End-to-End System for Hazardous Waste Detection in Scrap Yard
 </h1>
   
