@@ -3,7 +3,7 @@
 ----------
 
 <p align="center">
-  <img src="assets/system.svg"/>
+  <img src="assets/system_2.svg"/>
 </p>
 
 ---
