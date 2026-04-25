@@ -3,7 +3,7 @@
 ----------
 
 <p align="center">
-  <img src="assets/workflow.png"/>
+  <img src="assets/system.svg"/>
 </p>
 
 ---
