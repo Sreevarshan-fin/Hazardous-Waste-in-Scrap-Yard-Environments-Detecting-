@@ -2,19 +2,18 @@
   Hazardous Waste Detection in Scrap Yard Environments
 </h1>
 
----
-
 <p align="center">
 
-<img src="https://img.shields.io/badge/Colab-5F6368?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-37474F?style=flat-square&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ultralytics-2E2E2E?style=flat-square&logo=ultralytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-134E4A?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-4A044E?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pillow-3F3F46?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-F57C00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00ACC1?style=flat-square&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ultralytics-5E35B1?style=flat-square&logo=ultralytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-1E88E5?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-00897B?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-E53935?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pillow-FDD835?style=flat-square&logo=python&logoColor=black"/>
 
 </p>
+
 ---
 
 # 🔎 Problem Statement
