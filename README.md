@@ -49,7 +49,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 
 <p align="center">
-  <img src="assets/system_8.png",width="100%"/>
+  <img src="assets/system_9.png",width="100%"/>
 </p>
 
 
