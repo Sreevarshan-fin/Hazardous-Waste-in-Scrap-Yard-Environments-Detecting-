@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:25px;">
+<h1 align="center" style="font-size:22px;">
   Hazardous Waste Detection in Scrap Yard Environments
 </h1>
 
