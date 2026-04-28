@@ -16,6 +16,27 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Colab-F57C00?style=flat&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00ACC1?style=flat&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ultralytics-5E35B1?style=flat&logo=ultralytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-1E88E5?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-00897B?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-E53935?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pillow-FDD835?style=flat&logo=python&logoColor=black"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Colab-F57C00?style=flat&logo=googlecolab&logoColor=F57C00&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/YOLO-00ACC1?style=flat&logo=yolo&logoColor=00ACC1&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/Docker-1E88E5?style=flat&logo=docker&logoColor=1E88E5&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/FastAPI-00897B?style=flat&logo=fastapi&logoColor=00897B&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/OpenCV-E53935?style=flat&logo=opencv&logoColor=E53935&labelColor=ffffff"/>
+
+</p>
 ---
 
 # 🔎 Problem Statement
