@@ -58,6 +58,8 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 ### 🎯 Targeted Classes
 
+**The system focuses on detecting the following high-risk and value-critical objects:**
+
 | Class                 | Why Hazardous ⚠️         | Risk 💥              | Action ⚙️                                    | Impact 💼                          |
 | --------------------- | ------------------------ | -------------------- | -------------------------------------------- | ---------------------------------- |
 | **Gas Cylinder**      | High-pressure gas        | Explosion            | Detect → Isolate → Release gas → Scrap       | Prevents major damage & injuries   |
