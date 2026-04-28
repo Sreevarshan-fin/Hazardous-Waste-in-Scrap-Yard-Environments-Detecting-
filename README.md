@@ -4,8 +4,7 @@
 
 <p align="center">
 
-![Colab T4 GPU](https://img.shields.io/badge/Colab-T4%20GPU-F57C00?style=flat-square&logo=googlecolab&logoColor=white)
-<img src="https://img.shields.io/badge/Colab-F57C00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Colab-T4%20GPU-F57C00?style=flat-square&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-00ACC1?style=flat-square&logo=yolo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ultralytics-5E35B1?style=flat-square&logo=ultralytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-1E88E5?style=flat-square&logo=docker&logoColor=white"/>
@@ -16,7 +15,6 @@
 <img src="https://img.shields.io/badge/Streamlit-D32F2F?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </p>
-
 
 ---
 
