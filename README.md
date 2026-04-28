@@ -6,13 +6,13 @@
 
 # 🔎 Problem Statement
 
-Scrap yards process **1000+ tons of mixed metal waste**, where **hazardous objects** such as **pressurized cylinders, shock absorbers, sealed tanks, capacitors**, and other industrial components are **difficult to identify** during sorting operations.
+Scrap yards process **1000+ tons of mixed metal waste**, where **hazardous objects** such as **pressurized cylinders, shock absorbers, sealed tanks, and capacitors** are **difficult to identify** during sorting.
 
-Failure to detect these materials can lead to **explosions, fires, equipment damage, and serious worker injuries**, especially during **shredding or crushing processes**. These incidents not only compromise **safety** but also result in **operational downtime** and **significant financial losses**.
+Failure to detect these materials can cause **explosions, fires, equipment damage, and serious worker injuries**, especially during **shredding or crushing**, leading to **safety risks, operational downtime, and financial losses**.
 
-Current inspection methods rely on **manual monitoring**, which is **slow, inconsistent, and prone to human error**. Factors such as **fatigue, high processing speed, and limited visibility** contribute to estimated miss rates of **15–25%**, making manual inspection **unreliable for real-time industrial environments**.
+Current inspection relies on **manual monitoring**, which is **slow, inconsistent, and error-prone**, with miss rates of **15–25%** due to **fatigue, high speed, and limited visibility**, making it **unreliable for real-time environments**.
 
-In addition, certain components such as **motors** may still retain **functional or resale value**, but are often **misclassified as scrap** due to lack of proper identification. This leads to **inefficient resource utilization** and **loss of potential revenue**.
+Additionally, valuable components like **motors** are often **misclassified as scrap**, resulting in **inefficient resource use and lost revenue**.
 
 👉 These challenges have a direct impact on **overall business performance**:
 
@@ -20,16 +20,6 @@ In addition, certain components such as **motors** may still retain **functional
 * **Operational Downtime** – production stops, reduced efficiency
 * **Legal & Compliance Risks** – penalties, compensation claims
 * **Reputation & Workforce Impact** – loss of trust, low morale, reduced productivity
-
-👉 Therefore, there is a need for an **automated, real-time hazard detection and decision-making system** that can:
-
-* **Continuously monitor** scrap materials without human dependency
-* **Accurately detect hazardous objects** in real time
-* **Trigger appropriate actions** (alerts, isolation, safe handling)
-* **Reduce safety risks** and prevent equipment damage
-* **Improve operational efficiency** and minimize downtime
-* **Enable intelligent decision-making** for reuse, recycling, or disposal
-* **Support value recovery** by identifying reusable components like motors
 
   -----------------
 
