@@ -16,36 +16,21 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Colab-F57C00?style=flat&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00ACC1?style=flat&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ultralytics-5E35B1?style=flat&logo=ultralytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-1E88E5?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-00897B?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-E53935?style=flat&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pillow-FDD835?style=flat&logo=python&logoColor=black"/>
-
-</p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Colab-F57C00?style=flat&logo=googlecolab&logoColor=F57C00&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/YOLO-00ACC1?style=flat&logo=yolo&logoColor=00ACC1&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/Docker-1E88E5?style=flat&logo=docker&logoColor=1E88E5&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/FastAPI-00897B?style=flat&logo=fastapi&logoColor=00897B&labelColor=ffffff"/>
-<img src="https://img.shields.io/badge/OpenCV-E53935?style=flat&logo=opencv&logoColor=E53935&labelColor=ffffff"/>
+<img src="https://img.shields.io/badge/Colab-ffffff?style=flat&logo=googlecolab&logoColor=F57C00"/>
+<img src="https://img.shields.io/badge/YOLO-ffffff?style=flat&logo=yolo&logoColor=00ACC1"/>
+<img src="https://img.shields.io/badge/Ultralytics-ffffff?style=flat&logo=ultralytics&logoColor=5E35B1"/>
+<img src="https://img.shields.io/badge/Docker-ffffff?style=flat&logo=docker&logoColor=1E88E5"/>
+<img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat&logo=fastapi&logoColor=00897B"/>
+<img src="https://img.shields.io/badge/OpenCV-ffffff?style=flat&logo=opencv&logoColor=E53935"/>
+<img src="https://img.shields.io/badge/Pillow-ffffff?style=flat&logo=python&logoColor=FDD835"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-ffffff?style=flat&logo=amazonaws&logoColor=F4511E"/>
+<img src="https://img.shields.io/badge/Streamlit-ffffff?style=flat&logo=streamlit&logoColor=D32F2F"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Colab-F57C00-FFB74D?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00ACC1-80DEEA?style=flat-square&logo=yolo&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-1E88E5-90CAF9?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-00897B-80CBC4?style=flat-square&logo=fastapi&logoColor=white"/>
-
-</p>
 ---
 
 # 🔎 Problem Statement
