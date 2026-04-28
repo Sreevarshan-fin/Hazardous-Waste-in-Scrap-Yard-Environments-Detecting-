@@ -2,6 +2,13 @@
   Hazardous Waste Detection in Scrap Yard Environments
 </h1>
 
+![Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
+![YOLO](https://img.shields.io/badge/Model-YOLO-00FFFF?logo=yolo&logoColor=black)
+![Ultralytics](https://img.shields.io/badge/Framework-Ultralytics-111111?logo=ultralytics&logoColor=white)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![PIL](https://img.shields.io/badge/Image-Pillow%20(PIL)-3776AB?logo=python&logoColor=white)
 ---
 
 # 🔎 Problem Statement
