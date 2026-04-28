@@ -14,6 +14,7 @@ Current inspection relies on **manual monitoring**, which is **slow, inconsisten
 
 Additionally, valuable components like **motors** are often **misclassified as scrap**, resulting in **inefficient resource use and lost revenue**.
 
+
 👉 These challenges have a direct impact on **overall business performance**:
 
 * **Financial Loss** – medical costs, machine damage, higher insurance
