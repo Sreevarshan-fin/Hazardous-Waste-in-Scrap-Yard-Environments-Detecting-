@@ -36,7 +36,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 * **Legal & Compliance Risks** – penalties, compensation claims
 * **Reputation & Workforce Impact** – loss of trust, low morale, reduced productivity
 
-  -----------------
+-----------------
 
 <h2 align="center" style="font-size:15px;">
   End-to-End System for Hazardous Waste Detection in Scrap Yard
