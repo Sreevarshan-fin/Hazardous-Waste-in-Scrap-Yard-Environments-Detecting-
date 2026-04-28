@@ -19,7 +19,7 @@
 
 ---
 
-# 🔎 Problem Statement
+### 🔎 Problem Statement
 
 Scrap yards process **1000+ tons of mixed metal waste**, where **hazardous objects** such as **pressurized cylinders, shock absorbers, sealed tanks, and capacitors** are **difficult to identify** during sorting.
 
@@ -57,18 +57,15 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 ---
 
-
 ### 🎯 Targeted Classes
 
-| Class                 | Why Hazardous ⚠️                   | What Happens 💥                        | Action ⚙️                                                | Why This Action Matters 💡                               | Business Impact 💼                          |
-| --------------------- | ---------------------------------- | -------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------- |
-| **Gas_Cylinder**      | High-pressure gas stored inside    | Explosion when crushed/heated          | Detect → Isolate → Check pressure → Depressurize → Scrap | Pressure release prevents blast during shredding         | Avoids catastrophic damage & worker injury  |
-| **Shock_Absorber**    | Contains pressurized oil/gas       | Sudden rupture → flying debris         | Detect → Remove → Depressurize → Scrap                   | Removing internal pressure prevents rupture              | Reduces accidents & machine downtime        |
-| **Capacitor**         | Stores electrical charge           | Sudden discharge → sparks/fire         | Detect → Discharge → Inspect → Process                   | Safe discharge eliminates electrical hazard              | Protects equipment & prevents fire risk     |
-| **Motor**             | Electrical + mechanical components | Sparks, oil leakage, heavy part injury | Detect → Inspect → Test → Reuse / Resell or Scrap        | Motors may still work → recover value instead of wasting | Increases profit & reduces material loss 💰 |
-| **Sealed_Tank**       | Unknown contents (gas/liquid)      | Unexpected explosion or toxic leak     | Detect → Isolate → Inspect → Controlled handling         | Unknown risk must be verified before processing          | Prevents unpredictable failures & hazards   |
-| **Fire_Extinguisher** | Pressurized chemical container     | Explosion or chemical exposure         | Detect → Remove → Depressurize → Safe recycle            | Releasing pressure avoids blast risk                     | Ensures safety & regulatory compliance      |
-
+| Class                 | Why Hazardous ⚠️                              | What Can Happen 💥                                          | Action ⚙️                                                      | Why This Action Matters 💡                                  | Business Impact 💼                                      |
+| --------------------- | --------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
+| **Gas Cylinder**      | Contains high-pressure gas inside             | Can explode when crushed or heated during processing        | Detect → Isolate → Check pressure → Release gas safely → Scrap | Releasing pressure prevents explosions during shredding     | Avoids major machine damage and serious worker injuries |
+| **Shock Absorber**    | Contains pressurized oil or gas               | Can burst suddenly and send debris flying                   | Detect → Remove → Release pressure → Scrap                     | Removing internal pressure prevents sudden breakage         | Reduces accidents and machine downtime                  |
+| **Capacitor**         | Stores electrical energy even after use       | Can discharge suddenly, causing sparks or fire              | Detect → Discharge safely → Inspect → Process                  | Safe discharge removes electrical risk                      | Protects equipment and prevents fire hazards            |
+| **Motor**             | Contains electrical and mechanical components | Can cause sparks, oil leakage, or injury due to heavy parts | Detect → Inspect → Test → Reuse or Scrap                       | Motors can still be reused, so checking helps recover value | Increases profit and reduces material waste 💰          |
+| **Sealed Tank**       | May contain unknown gas or liquid             | Can explode or release toxic substances unexpectedly        | Detect → Isolate → Inspect → Handle with care                  | Unknown contents must be checked before processing          | Prevents unexpected failures and safety risks           |
+| **Fire Extinguisher** | Contains pressurized chemical agents          | Can explode or expose workers to chemicals                  | Detect → Remove → Release pressure → Recycle safely            | Releasing pressure avoids explosion risk                    | Improves workplace safety and ensures compliance        |
 
 ---
-
