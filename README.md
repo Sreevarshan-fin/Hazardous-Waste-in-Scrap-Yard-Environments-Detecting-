@@ -37,6 +37,15 @@
 <img src="https://img.shields.io/badge/OpenCV-E53935?style=flat&logo=opencv&logoColor=E53935&labelColor=ffffff"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Colab-F57C00-FFB74D?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-00ACC1-80DEEA?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-1E88E5-90CAF9?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-00897B-80CBC4?style=flat-square&logo=fastapi&logoColor=white"/>
+
+</p>
 ---
 
 # 🔎 Problem Statement
