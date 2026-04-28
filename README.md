@@ -17,20 +17,6 @@
 </p>
 
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Colab-ffffff?style=flat&logo=googlecolab&logoColor=F57C00"/>
-<img src="https://img.shields.io/badge/YOLO-ffffff?style=flat&logo=yolo&logoColor=00ACC1"/>
-<img src="https://img.shields.io/badge/Ultralytics-ffffff?style=flat&logo=ultralytics&logoColor=5E35B1"/>
-<img src="https://img.shields.io/badge/Docker-ffffff?style=flat&logo=docker&logoColor=1E88E5"/>
-<img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat&logo=fastapi&logoColor=00897B"/>
-<img src="https://img.shields.io/badge/OpenCV-ffffff?style=flat&logo=opencv&logoColor=E53935"/>
-<img src="https://img.shields.io/badge/Pillow-ffffff?style=flat&logo=python&logoColor=FDD835"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-ffffff?style=flat&logo=amazonaws&logoColor=F4511E"/>
-<img src="https://img.shields.io/badge/Streamlit-ffffff?style=flat&logo=streamlit&logoColor=D32F2F"/>
-
-</p>
-
 ---
 
 # 🔎 Problem Statement
