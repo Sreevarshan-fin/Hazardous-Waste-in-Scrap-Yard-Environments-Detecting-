@@ -4,22 +4,6 @@
 
 ---
 
-<h2 align="center" style="font-size:15px;">
-  End-to-End System for Hazardous Waste Detection in Scrap Yard
-</h2>
-  
-  
-  <p align="center">
-  <img src="assets/workflow_6.png",width="100%"/>
-</p>
-
-
-<p align="center">
-  <img src="assets/system_8.png",width="100%"/>
-</p>
-
----
-
 # 🔎 Problem Statement
 
 Scrap yards process **1000+ tons of mixed metal waste**, where **hazardous objects** such as **pressurized cylinders, shock absorbers, sealed tanks, capacitors**, and other industrial components are **difficult to identify** during sorting operations.
@@ -46,6 +30,24 @@ In addition, certain components such as **motors** may still retain **functional
 * **Improve operational efficiency** and minimize downtime
 * **Enable intelligent decision-making** for reuse, recycling, or disposal
 * **Support value recovery** by identifying reusable components like motors
+
+  -----------------
+
+<h2 align="center" style="font-size:15px;">
+  End-to-End System for Hazardous Waste Detection in Scrap Yard
+</h2>
+  
+  
+  <p align="center">
+  <img src="assets/workflow_6.png",width="100%"/>
+</p>
+
+
+<p align="center">
+  <img src="assets/system_8.png",width="100%"/>
+</p>
+
+
 
 ---
 
