@@ -59,13 +59,13 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 ### 🎯 Targeted Classes
 
-| Class                 | Why Hazardous ⚠️                              | What Can Happen 💥                                          | Action ⚙️                                                      | Why This Action Matters 💡                                  | Business Impact 💼                                      |
-| --------------------- | --------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
-| **Gas Cylinder**      | Contains high-pressure gas inside             | Can explode when crushed or heated during processing        | Detect → Isolate → Check pressure → Release gas safely → Scrap | Releasing pressure prevents explosions during shredding     | Avoids major machine damage and serious worker injuries |
-| **Shock Absorber**    | Contains pressurized oil or gas               | Can burst suddenly and send debris flying                   | Detect → Remove → Release pressure → Scrap                     | Removing internal pressure prevents sudden breakage         | Reduces accidents and machine downtime                  |
-| **Capacitor**         | Stores electrical energy even after use       | Can discharge suddenly, causing sparks or fire              | Detect → Discharge safely → Inspect → Process                  | Safe discharge removes electrical risk                      | Protects equipment and prevents fire hazards            |
-| **Motor**             | Contains electrical and mechanical components | Can cause sparks, oil leakage, or injury due to heavy parts | Detect → Inspect → Test → Reuse or Scrap                       | Motors can still be reused, so checking helps recover value | Increases profit and reduces material waste 💰          |
-| **Sealed Tank**       | May contain unknown gas or liquid             | Can explode or release toxic substances unexpectedly        | Detect → Isolate → Inspect → Handle with care                  | Unknown contents must be checked before processing          | Prevents unexpected failures and safety risks           |
-| **Fire Extinguisher** | Contains pressurized chemical agents          | Can explode or expose workers to chemicals                  | Detect → Remove → Release pressure → Recycle safely            | Releasing pressure avoids explosion risk                    | Improves workplace safety and ensures compliance        |
+| Class                 | Why Hazardous ⚠️         | Risk 💥              | Action ⚙️                                    | Impact 💼                          |
+| --------------------- | ------------------------ | -------------------- | -------------------------------------------- | ---------------------------------- |
+| **Gas Cylinder**      | High-pressure gas        | Explosion            | Detect → Isolate → Release gas → Scrap       | Prevents major damage & injuries   |
+| **Shock Absorber**    | Pressurized oil/gas      | Burst, debris        | Detect → Remove → Release pressure → Scrap   | Reduces accidents & downtime       |
+| **Capacitor**         | Stored electrical energy | Sparks, fire         | Detect → Discharge → Process                 | Prevents electrical hazards        |
+| **Motor**             | Electrical + heavy parts | Sparks, leakage      | Detect → Check → Reuse/Scrap                 | Increases value & reduces waste 💰 |
+| **Sealed Tank**       | Unknown contents         | Explosion/toxic leak | Detect → Isolate → Inspect                   | Avoids unexpected failures         |
+| **Fire Extinguisher** | Pressurized chemical     | Explosion/exposure   | Detect → Remove → Release pressure → Recycle | Improves safety & compliance       |
 
----
+----
