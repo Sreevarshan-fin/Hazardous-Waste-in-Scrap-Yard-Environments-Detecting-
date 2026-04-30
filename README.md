@@ -38,7 +38,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 -----------------
 
-<h2 align="center" style="font-size:15px;">
+<h2 align="center" style="font-size:12px;">
   End-to-End System for Hazardous Waste Detection in Scrap Yard
 </h2>
   
