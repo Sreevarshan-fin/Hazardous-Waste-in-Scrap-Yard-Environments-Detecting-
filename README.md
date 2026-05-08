@@ -86,20 +86,21 @@ Additionally, valuable components like **motors** are often **misclassified as s
 | **Fire Extinguisher** | Pressurized chemical | Explosion or exposure | Detect → Remove → Release pressure → Recycle | Improves safety & compliance |
 
 -------
+
 ## 🛠 Solution Approach
 
-- Created a custom dataset with 250+ self-annotated industrial scrap images across 6 hazardous object classes for segmentation-based detection.
+- Prepared a dataset with **250+ self-annotated industrial scrap images** across **6 hazardous object classes** for segmentation-based detection.
 
-- Performed polygon annotations for YOLOv8 segmentation to enable accurate object boundary localization in cluttered industrial environments.
+- Performed **polygon annotations** for **YOLOv8 segmentation** to enable accurate object boundary localization in cluttered industrial environments.
 
-- Conducted dataset quality checks including annotation quality verification, missing label inspection, duplicate analysis, label consistency validation, and class distribution analysis to improve training reliability.
+- Conducted **dataset quality checks** including **annotation quality verification, missing label inspection, duplicate analysis, label consistency validation, and class distribution analysis** to improve training reliability.
 
-- Applied preprocessing techniques such as image resizing and label validation for consistent data preparation.
+- Applied **preprocessing techniques** such as **image resizing** and **label validation** for consistent data preparation.
 
-- Addressed severe class imbalance using oversampling techniques along with controlled augmentation to improve minority-class diversity and high-recall detection performance.
+- Addressed severe **class imbalance** using **oversampling techniques** along with **controlled augmentation** to improve minority-class diversity and **high-recall detection performance**.
 
-- Trained a YOLOv8 segmentation model using transfer learning and optimized the pipeline for Recall and Mask mAP performance in safety-critical scenarios.
+- Trained a **YOLOv8 segmentation model** using **transfer learning** and optimized the pipeline for **Recall** and **Mask mAP** performance in safety-critical scenarios.
 
-- Evaluated both detection and segmentation performance using Precision, Recall, mAP@0.5, mAP@0.5–0.95, and Mask mAP metrics.
+- Evaluated both **detection** and **segmentation** performance using **Precision, Recall, mAP@0.5, mAP@0.5–0.95, and Mask mAP metrics**.
 
-- Deployed the complete system using Docker, Streamlit, and AWS EC2, and simulated a real-time industrial hazardous-object monitoring workflow.
+- Deployed the complete system using **Docker, Streamlit, and AWS EC2**, and simulated a **real-time industrial hazardous-object monitoring workflow**.
