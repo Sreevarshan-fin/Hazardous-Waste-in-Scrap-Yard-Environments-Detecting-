@@ -99,7 +99,9 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 - Addressed severe **class imbalance** using **oversampling techniques** along with **controlled augmentation** to improve minority-class diversity and **high-recall detection performance**.
 
-- Trained a **YOLOv8 segmentation model** using **transfer learning** and optimized the pipeline for **Recall** and **Mask mAP** performance in safety-critical scenarios.
+- Trained a **YOLOv8l segmentation model** using **transfer learning** with **50 epochs**, **batch size 6**, and the **AdamW optimizer** for optimized industrial segmentation performance.
+
+- Optimized the pipeline for improved **Recall** and **Mask mAP** performance in safety-critical industrial scenarios.
 
 - Evaluated both **detection** and **segmentation** performance using **Precision, Recall, mAP@0.5, mAP@0.5–0.95, and Mask mAP metrics**.
 
