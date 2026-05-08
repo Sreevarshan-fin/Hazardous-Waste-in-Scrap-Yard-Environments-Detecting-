@@ -21,24 +21,8 @@
 
 
 ---
-
-### 🔎 Problem Statement
-
-Scrap yards process **1000+ tons of mixed metal waste**, where **hazardous objects** such as **pressurized cylinders, shock absorbers, sealed tanks, and capacitors** are **difficult to identify** during sorting.
-
-Failure to detect these materials can cause **explosions, fires, equipment damage, and serious worker injuries**, especially during **shredding or crushing**, leading to **safety risks, operational downtime, and financial losses**.
-
-Current inspection relies on **manual monitoring**, which is **slow, inconsistent, and error-prone**, with miss rates of **15–25%** due to **fatigue, high speed, and limited visibility**, making it **unreliable for real-time environments**.
-
-Additionally, valuable components like **motors** are often **misclassified as scrap**, resulting in **inefficient resource use and lost revenue**.
-
-
-👉 These challenges have a direct impact on **overall business performance**:
-
-* **Financial Loss** – medical costs, machine damage, higher insurance
-* **Operational Downtime** – production stops, reduced efficiency
-* **Legal & Compliance Risks** – penalties, compensation claims
-* **Reputation & Workforce Impact** – loss of trust, low morale, reduced productivity
+# 🔎 Project Overview
+An industrial hazard detection system that uses YOLOv8 segmentation to identify dangerous scrap materials in cluttered environments. The project focuses on safety monitoring, imbalance-aware training, and scalable cloud deployment.
 
 -----------------
 
@@ -57,6 +41,26 @@ Additionally, valuable components like **motors** are often **misclassified as s
 </p>
 
 
+
+---
+
+### 🔎 Problem Statement
+
+Scrap yards process **1000+ tons of mixed metal waste**, where **hazardous objects** such as **pressurized cylinders, shock absorbers, sealed tanks, and capacitors** are **difficult to identify** during sorting.
+
+Failure to detect these materials can cause **explosions, fires, equipment damage, and serious worker injuries**, especially during **shredding or crushing**, leading to **safety risks, operational downtime, and financial losses**.
+
+Current inspection relies on **manual monitoring**, which is **slow, inconsistent, and error-prone**, with miss rates of **15–25%** due to **fatigue, high speed, and limited visibility**, making it **unreliable for real-time environments**.
+
+Additionally, valuable components like **motors** are often **misclassified as scrap**, resulting in **inefficient resource use and lost revenue**.
+
+
+👉 These challenges have a direct impact on **overall business performance**:
+
+* **Financial Loss** – medical costs, machine damage, higher insurance
+* **Operational Downtime** – production stops, reduced efficiency
+* **Legal & Compliance Risks** – penalties, compensation claims
+* **Reputation & Workforce Impact** – loss of trust, low morale, reduced productivity
 
 ---
 
