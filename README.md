@@ -65,18 +65,25 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 ---
 
-### 🎯 Targeted Classes
+## 🎯 Dataset & Target Classes
 
-**The system focuses on detecting the following high-risk and value-critical objects:**
+- 250+ self-annotated industrial scrap images
+- Polygon annotations for YOLOv8 segmentation
+- 6 hazardous industrial object classes
+- Imbalance-aware dataset preparation using oversampling
+- Images collected from cluttered scrap-yard-like environments
+- Designed for safety-critical industrial monitoring scenarios
 
-| Class                 | Why Hazardous                 | Risk                   | Action                                        | Impact                             |
-| --------------------- | ----------------------------- | ----------------------- | -------------------------------------------- | ---------------------------------- |
-| **Gas Cylinder**      | High-pressure gas             | Explosion               | Detect → Isolate → Release gas → Scrap       | Prevents major damage & injuries   |
-| **Shock Absorber**    | Pressurized oil/gas           | Burst and flying debris | Detect → Remove → Release pressure → Scrap   | Reduces accidents & downtime       |
-| **Capacitor**         | Stored electrical energy      | Sparks or fire          | Detect → Discharge → Process                 | Prevents electrical hazards        |
-| **Motor**             | Electrical + heavy components | Sparks, leakage         | Detect → Inspect → Reuse / Scrap             | Increases value & reduces waste 💰 |
-| **Sealed Tank**       | Unknown contents              | Explosion or toxic leak | Detect → Isolate → Inspect                   | Avoids unexpected failures         |
-| **Fire Extinguisher** | Pressurized chemical          | Explosion or exposure   | Detect → Remove → Release pressure → Recycle | Improves safety & compliance       |
+#### 🔹 Target Classes
 
+The system focuses on detecting the following high-risk and value-critical objects:
 
+| Class | Why Hazardous | Risk | Action | Impact |
+|---|---|---|---|---|
+| **Gas Cylinder** | High-pressure gas | Explosion | Detect → Isolate → Release gas → Scrap | Prevents major damage & injuries |
+| **Shock Absorber** | Pressurized oil/gas | Burst and flying debris | Detect → Remove → Release pressure → Scrap | Reduces accidents & downtime |
+| **Capacitor** | Stored electrical energy | Sparks or fire | Detect → Discharge → Process | Prevents electrical hazards |
+| **Motor** | Electrical + heavy components | Sparks, leakage | Detect → Inspect → Reuse / Scrap | Increases value & reduces waste 💰 |
+| **Sealed Tank** | Unknown contents | Explosion or toxic leak | Detect → Isolate → Inspect | Avoids unexpected failures |
+| **Fire Extinguisher** | Pressurized chemical | Explosion or exposure | Detect → Remove → Release pressure → Recycle | Improves safety & compliance |
 ----
