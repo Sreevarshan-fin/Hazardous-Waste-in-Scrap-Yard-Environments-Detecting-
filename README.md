@@ -124,7 +124,7 @@ The final model demonstrated significantly improved **Recall**, **segmentation q
 <tr>
 <td width="48%">
 
-<img src="assets/confusion_matrix.png" width="100%">
+<img src="assets/confusion matrix.png" width="100%">
 
 </td>
 
