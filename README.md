@@ -26,7 +26,7 @@ An industrial hazard detection system that uses YOLOv8 segmentation to identify 
 
 -----------------
 
-<h2 align="center" style="font-size:12px;">
+<h2 align="center" style="font-size: 9 px;">
   End-to-End System for Hazardous Waste Detection in Scrap Yard
 </h2>
   
