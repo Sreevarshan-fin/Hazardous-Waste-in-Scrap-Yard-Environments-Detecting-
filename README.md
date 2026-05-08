@@ -65,7 +65,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 ---
 
-## 🎯 Dataset & Target Classes
+## 📊 Dataset Information
 
 - 250+ self-annotated industrial scrap images
 - Polygon annotations for YOLOv8 segmentation
@@ -74,9 +74,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 - Images collected from cluttered scrap-yard-like environments
 - Designed for safety-critical industrial monitoring scenarios
 
-#### 🔹 Target Classes
-
-The system focuses on detecting the following high-risk and value-critical objects:
+**The system target classes to focuses on detecting the following high-risk and value-critical objects:**
 
 | Class | Why Hazardous | Risk | Action | Impact |
 |---|---|---|---|---|
@@ -86,4 +84,3 @@ The system focuses on detecting the following high-risk and value-critical objec
 | **Motor** | Electrical + heavy components | Sparks, leakage | Detect → Inspect → Reuse / Scrap | Increases value & reduces waste 💰 |
 | **Sealed Tank** | Unknown contents | Explosion or toxic leak | Detect → Isolate → Inspect | Avoids unexpected failures |
 | **Fire Extinguisher** | Pressurized chemical | Explosion or exposure | Detect → Remove → Release pressure → Recycle | Improves safety & compliance |
-----
