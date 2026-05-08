@@ -131,12 +131,12 @@ The confusion matrix shows strong class-wise prediction consistency, with most p
 - **Mask mAP@0.5:** `0.8276`
 - **Mask mAP@0.5–0.95:** `0.7394`
 
+The final model demonstrated significantly improved **Recall**, **segmentation quality**, and **minority-class learning performance** compared to augmentation-only training. Oversampling combined with **controlled augmentation** proved more effective for handling class imbalance in this safety-critical industrial segmentation task.
+
 </div>
 
 <br clear="left"/>
 
 ---
 
-The final model demonstrated significantly improved **Recall**, **segmentation quality**, and **minority-class learning performance** compared to augmentation-only training. Oversampling combined with **controlled augmentation** proved more effective for handling class imbalance in this safety-critical industrial segmentation task.
 
----
