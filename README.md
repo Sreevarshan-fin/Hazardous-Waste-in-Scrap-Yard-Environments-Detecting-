@@ -13,25 +13,12 @@
 <img src="https://img.shields.io/badge/Pillow-FDD835?style=flat-square&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/AWS%20EC2-F4511E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-D32F2F?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Augmentation-Data%20Augmentation-43A047?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Augmentation-Enabled-43A047?style=flat-square&logo=tensorflow&logoColor=white"/>
 
 </p>
 
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Colab-T4%20GPU-F57C00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00ACC1?style=flat-square&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ultralytics-5E35B1?style=flat-square&logo=ultralytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-1E88E5?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-00897B?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-E53935?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pillow-FDD835?style=flat-square&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS%20EC2-F4511E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-D32F2F?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Augmentation-Data%20Augmentation-43A047?style=flat-square&logo=tensorflow&logoColor=white"/>
-
-</p>
 
 ---
 
