@@ -110,7 +110,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 ## 📈 Model Evaluation
 
 <p align="center">
-<img src="assets/confusion_matrix.png" width="65%">
+<img src="assets/confusion matrix.png" width="100%">
 </p>
 
 The **YOLOv8l segmentation model** was evaluated using both **detection** and **segmentation** metrics in complex industrial scrap-yard environments.
@@ -121,7 +121,8 @@ To improve learning stability, the final pipeline combined **oversampling** with
 
 The confusion matrix demonstrates strong class-wise prediction consistency, with most predictions concentrated along the diagonal, indicating reduced misclassification and improved localization performance across hazardous object classes.
 
-####🔹 Final Performance
+
+### Final Performance
 
 | Metric | Score |
 |---|---:|
