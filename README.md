@@ -107,11 +107,14 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 - Deployed the complete system using **Docker, Streamlit, and AWS EC2**, and simulated a **real-time industrial hazardous-object monitoring workflow**.
 
-## 📈 Model Evaluation
+# 📈 Model Evaluation
 
-| Confusion Matrix | Evaluation Summary |
-|---|---|
-| | True Class ↓ / Predicted → | Capacitors | Fire Extinguisher | Gas Cylinder | Motors | Sealed Tanks | Shock Absorbers | Background |
+<table>
+<tr>
+
+<td width="52%" valign="top">
+
+| True Class ↓ / Predicted → | Capacitors | Fire Extinguisher | Gas Cylinder | Motors | Sealed Tanks | Shock Absorbers | Background |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | **Capacitors** | 13 | 0 | 0 | 0 | 1 | 0 | 5 |
 | **Fire Extinguisher** | 0 | 46 | 1 | 0 | 0 | 0 | 1 |
@@ -119,13 +122,39 @@ Additionally, valuable components like **motors** are often **misclassified as s
 | **Motors** | 0 | 0 | 0 | 6 | 0 | 0 | 0 |
 | **Sealed Tanks** | 0 | 0 | 0 | 0 | 24 | 0 | 4 |
 | **Shock Absorbers** | 0 | 0 | 0 | 0 | 0 | 28 | 3 |
-| **Background** | 8 | 5 | 8 | 0 | 8 | 16 | 0 | | The **YOLOv8l segmentation model** was evaluated using both **detection** and **segmentation** metrics in complex industrial scrap-yard environments.<br><br>Initial training using aggressive augmentation alone produced moderate performance, particularly affecting minority classes such as **Motors**, **Capacitors**, and **Shock Absorbers** due to limited representation and unrealistic feature variations.<br><br>To improve learning stability, the final pipeline combined **oversampling** with **controlled augmentation** to increase minority-class exposure while maintaining feature diversity during training.<br><br>The confusion matrix shows strong class-wise prediction consistency, with most predictions concentrated along the diagonal, indicating reduced misclassification and improved localization performance across hazardous object classes.<br><br> Final Performance <br><br>- **Detection Recall:** `0.7637`<br>- **Detection mAP@0.5:** `0.8520`<br>- **Detection mAP@0.5–0.95:** `0.7872`<br>- **Mask mAP@0.5:** `0.8276`<br>- **Mask mAP@0.5–0.95:** `0.7394` |
+| **Background** | 8 | 5 | 8 | 0 | 8 | 16 | 0 |
+
+</td>
+
+<td width="48%" valign="top">
+
+The **YOLOv8l segmentation model** was evaluated using both **detection** and **segmentation** metrics in complex industrial scrap-yard environments.
+
+Initial training using aggressive augmentation alone produced moderate performance, particularly affecting minority classes such as **Motors**, **Capacitors**, and **Shock Absorbers** due to limited representation and unrealistic feature variations.
+
+To improve learning stability, the final pipeline combined **oversampling** with **controlled augmentation** to increase minority-class exposure while maintaining feature diversity during training.
+
+The confusion matrix shows strong class-wise prediction consistency, with most predictions concentrated along the diagonal, indicating reduced misclassification and improved localization performance across hazardous object classes.
+
+### 🔹 Final Performance
+
+- **Detection Recall:** `0.7637`
+- **Detection mAP@0.5:** `0.8520`
+- **Detection mAP@0.5–0.95:** `0.7872`
+- **Mask mAP@0.5:** `0.8276`
+- **Mask mAP@0.5–0.95:** `0.7394`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 The final model demonstrated significantly improved **Recall**, **segmentation quality**, and **minority-class learning performance** compared to augmentation-only training. Oversampling combined with controlled augmentation proved more effective for handling class imbalance in this safety-critical industrial segmentation task.
 
---
+---
+
 | True Class ↓ / Predicted → | Capacitors | Fire Extinguisher | Gas Cylinder | Motors | Sealed Tanks | Shock Absorbers | Background |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | **Capacitors** | 13 | 0 | 0 | 0 | 1 | 0 | 5 |
