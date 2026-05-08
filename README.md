@@ -21,7 +21,7 @@
 
 
 ---
-# 🔎 Project Overview
+### 🔎 Project Overview
 An industrial hazard detection system that uses YOLOv8 segmentation to identify dangerous scrap materials in cluttered environments. The project focuses on safety monitoring, imbalance-aware training, and scalable cloud deployment.
 
 -----------------
