@@ -116,7 +116,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <img align="left" src="assets/confusion matrix.png" width="48%">
 
-##### 🔹 Evaluation Summary
+##### 🔹 **Evaluation Summary**
 
 The **YOLOv8l segmentation model** was evaluated using both **detection** and **segmentation** metrics in complex industrial scrap-yard environments.
 
