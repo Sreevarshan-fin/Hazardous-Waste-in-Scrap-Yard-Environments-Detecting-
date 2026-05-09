@@ -116,11 +116,9 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <div align="left">
 
-<img align="left" src="assets/confusion matrix.png" width="48%">
+<img align="left" src="assets/confusion matrix.png" width="42%">
 
 ##### 🔹 Key Findings
-
-- The YOLOv8l segmentation model was evaluated using both detection and segmentation metrics in complex industrial scrap-yard environments.
 
 - Initial augmentation-only training produced unstable minority-class learning, particularly for **Motors**, **Capacitors**, and **Shock Absorbers**.
 
@@ -131,7 +129,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 </div>
 
 <br clear="left"/>
-  
+
 #### 🔹 Final Performance
 
 - **Detection Recall:** `0.7637`
@@ -140,7 +138,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 - **Mask mAP@0.5:** `0.8276`
 - **Mask mAP@0.5–0.95:** `0.7394`
 
-The final model demonstrated significantly improved **Recall**, **segmentation quality**, and **minority-class learning performance** compared to augmentation-only training. Oversampling combined with **controlled augmentation** proved more effective for handling class imbalance in this safety-critical industrial segmentation task.
+> Oversampling combined with controlled augmentation improved minority-class learning and overall segmentation consistency in cluttered industrial environments.
 
 ---
 
