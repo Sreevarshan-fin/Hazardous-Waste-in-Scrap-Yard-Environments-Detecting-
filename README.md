@@ -144,4 +144,16 @@ The final model demonstrated significantly improved **Recall**, **segmentation q
 
 ---
 
+---
 
+### ⚡ Inference Performance
+
+| Metric | Value |
+|---|---|
+| GPU | Tesla T4 |
+| Avg Inference Time | 42 ms |
+| FPS | 23 FPS |
+| Model | YOLOv8l-seg |
+| Parameters | 44M |
+
+The deployed YOLOv8 segmentation pipeline achieved near real-time inference performance on an NVIDIA Tesla T4 GPU. The system processed approximately 23 frames per second with an average inference latency of 42 ms per frame, making it suitable for industrial hazardous-object monitoring scenarios requiring fast response and continuous visual inspection.
