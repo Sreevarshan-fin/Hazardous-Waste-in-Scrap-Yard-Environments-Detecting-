@@ -144,8 +144,6 @@ The final model demonstrated significantly improved **Recall**, **segmentation q
 
 ---
 
----
-
 ### ⚡ Inference Performance
 
 | Metric | Value |
