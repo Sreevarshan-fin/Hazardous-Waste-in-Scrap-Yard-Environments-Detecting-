@@ -118,7 +118,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <img align="left" src="assets/confusion matrix.png" width="60%">
 
-##### 🔹 Key Findings
+### 🔹 Key Findings
 
 - Oversampling combined with controlled augmentation improved minority-class learning and segmentation consistency, particularly for Motors, Capacitors, and Shock Absorbers.
 
