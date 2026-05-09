@@ -68,7 +68,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 ---
 
-## 📊 Dataset Information
+### 📊 Dataset Information
 
 - 250+ self-annotated industrial scrap images
 - Polygon annotations for YOLOv8 segmentation
@@ -90,7 +90,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 -------
 
-## 🛠 Solution Approach
+### 🛠 Solution Approach
 
 - Prepared a dataset with **250+ self-annotated industrial scrap images** across **6 hazardous object classes** for segmentation-based detection.
 
@@ -110,13 +110,13 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 - Deployed the complete system using **Docker, Streamlit, and AWS EC2**, and simulated a **real-time industrial hazardous-object monitoring workflow**.
 
-# 📈 Model Evaluation
+### 📈 Model Evaluation
 
 <div align="left">
 
 <img align="left" src="assets/confusion matrix.png" width="48%">
 
-#### 🔹 Evaluation Summary
+##### 🔹 Evaluation Summary
 
 The **YOLOv8l segmentation model** was evaluated using both **detection** and **segmentation** metrics in complex industrial scrap-yard environments.
 
