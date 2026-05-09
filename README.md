@@ -126,23 +126,26 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 - The confusion matrix shows strong diagonal concentration, indicating reduced misclassification and improved class-wise prediction stability.
 
-##### 🔹 Final Performance
-
-- **Detection Recall:** `0.7637`
-- **Detection mAP@0.5:** `0.8520`
-- **Detection mAP@0.5–0.95:** `0.7872`
-- **Mask mAP@0.5:** `0.8276`
-- **Mask mAP@0.5–0.95:** `0.7394`
-
 </div>
 
 <br clear="left"/>
+
+---
+
+#### 🔹 Final Performance
+
+| Metric | Score |
+|---|---|
+| Detection Recall | `0.7637` |
+| Detection mAP@0.5 | `0.8520` |
+| Detection mAP@0.5–0.95 | `0.7872` |
+| Mask mAP@0.5 | `0.8276` |
+| Mask mAP@0.5–0.95 | `0.7394` |
 
 > Oversampling combined with controlled augmentation improved minority-class learning and segmentation consistency in cluttered industrial environments.
 
 ---
 
----
 
 ### ⚡ Inference Performance
 
