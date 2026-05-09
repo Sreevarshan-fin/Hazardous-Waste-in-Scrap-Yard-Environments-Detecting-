@@ -116,7 +116,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <div align="left">
 
-<img align="left" src="assets/confusion matrix.png" width="100%">
+<img align="left" src="assets/confusion matrix.png" width="70%">
 
 ##### 🔹 Key Findings
 
