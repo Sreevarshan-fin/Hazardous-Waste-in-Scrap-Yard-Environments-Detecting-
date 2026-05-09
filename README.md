@@ -128,7 +128,9 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 - The confusion matrix shows strong diagonal concentration, indicating reduced misclassification and improved class-wise prediction stability.
 
-  
+</div>
+
+<br clear="left"/>
   
 #### 🔹 Final Performance
 
@@ -139,10 +141,6 @@ Additionally, valuable components like **motors** are often **misclassified as s
 - **Mask mAP@0.5–0.95:** `0.7394`
 
 The final model demonstrated significantly improved **Recall**, **segmentation quality**, and **minority-class learning performance** compared to augmentation-only training. Oversampling combined with **controlled augmentation** proved more effective for handling class imbalance in this safety-critical industrial segmentation task.
-
-</div>
-
-<br clear="left"/>
 
 ---
 
