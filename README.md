@@ -110,6 +110,8 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 - Deployed the complete system using **Docker, Streamlit, and AWS EC2**, and simulated a **real-time industrial hazardous-object monitoring workflow**.
 
+------------
+
 ### 📈 Model Evaluation
 
 <div align="left">
