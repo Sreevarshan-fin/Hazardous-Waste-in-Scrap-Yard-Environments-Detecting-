@@ -159,3 +159,5 @@ Additionally, valuable components like **motors** are often **misclassified as s
 | Parameters | 44M |
 
 > Benchmarked on an NVIDIA Tesla T4 GPU, the YOLOv8l-seg pipeline achieved approximately 23 FPS with an average inference latency of 42 ms per frame, enabling near real-time hazardous-object monitoring in industrial scrap-yard environments.
+
+-----------
