@@ -118,7 +118,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <img align="left" src="assets/confusion matrix.png" width="60%">
 
-##### 🔹 Key Findings
+#### 🔹 Key Findings
 
 - Initial augmentation-only training produced unstable minority-class learning, particularly for **Motors**, **Capacitors**, and **Shock Absorbers** due to limited representation.
 
@@ -128,11 +128,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 - Reduced background confusion improved hazardous-object localization and overall segmentation reliability.
 
-</div>
-
-<br clear="left"/>
-
-
+  
 #### 🔹 Final Performance
 
 | Metric | Score |
@@ -142,6 +138,12 @@ Additionally, valuable components like **motors** are often **misclassified as s
 | Detection mAP@0.5–0.95 | `0.7872` |
 | Mask mAP@0.5 | `0.8276` |
 | Mask mAP@0.5–0.95 | `0.7394` |
+
+</div>
+
+<br clear="left"/>
+
+
 
 
 ---
