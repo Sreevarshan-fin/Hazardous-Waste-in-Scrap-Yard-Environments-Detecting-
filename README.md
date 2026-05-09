@@ -127,6 +127,8 @@ Additionally, valuable components like **motors** are often **misclassified as s
 - Oversampling combined with controlled augmentation improved Recall, segmentation consistency, and minority-class representation.
 
 - The confusion matrix shows strong diagonal concentration, indicating reduced misclassification and improved class-wise prediction stability.
+
+  
   
 #### 🔹 Final Performance
 
