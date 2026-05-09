@@ -158,4 +158,4 @@ Additionally, valuable components like **motors** are often **misclassified as s
 | Model | YOLOv8l-seg |
 | Parameters | 44M |
 
-The deployed YOLOv8 segmentation pipeline achieved near real-time inference performance on an NVIDIA Tesla T4 GPU. The system processed approximately 23 frames per second with an average inference latency of 42 ms per frame, making it suitable for industrial hazardous-object monitoring scenarios requiring fast response and continuous visual inspection.
+> Benchmarked on an NVIDIA Tesla T4 GPU, the YOLOv8l-seg pipeline achieved approximately 23 FPS with an average inference latency of 42 ms per frame, enabling near real-time hazardous-object monitoring in industrial scrap-yard environments.
