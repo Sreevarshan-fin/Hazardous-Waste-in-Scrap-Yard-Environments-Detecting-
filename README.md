@@ -118,17 +118,17 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <img align="left" src="assets/confusion matrix.png" width="48%">
 
-##### 🔹 **Evaluation Summary**
+##### 🔹 Key Findings
 
-The **YOLOv8l segmentation model** was evaluated using both **detection** and **segmentation** metrics in complex industrial scrap-yard environments.
+- The YOLOv8l segmentation model was evaluated using both detection and segmentation metrics in complex industrial scrap-yard environments.
 
-Initial training using aggressive augmentation alone produced moderate performance, particularly affecting minority classes such as **Motors**, **Capacitors**, and **Shock Absorbers** due to limited representation and unrealistic feature variations.
+- Initial augmentation-only training produced unstable minority-class learning, particularly for **Motors**, **Capacitors**, and **Shock Absorbers**.
 
-To improve learning stability, the final pipeline combined **oversampling** with **controlled augmentation** to increase minority-class exposure while maintaining feature diversity during training.
+- Oversampling combined with controlled augmentation improved Recall, segmentation consistency, and minority-class representation.
 
-The confusion matrix shows strong class-wise prediction consistency, with most predictions concentrated along the diagonal, indicating reduced misclassification and improved localization performance across hazardous object classes.
-
-### 🔹 Final Performance
+- The confusion matrix shows strong diagonal concentration, indicating reduced misclassification and improved class-wise prediction stability.
+  
+#### 🔹 Final Performance
 
 - **Detection Recall:** `0.7637`
 - **Detection mAP@0.5:** `0.8520`
