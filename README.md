@@ -120,11 +120,9 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 ##### 🔹 Key Findings
 
-- Initial augmentation-only training produced unstable minority-class learning, particularly for **Motors**, **Capacitors**, and **Shock Absorbers**.
+- Oversampling combined with controlled augmentation improved minority-class learning and segmentation consistency, particularly for Motors, Capacitors, and Shock Absorbers.
 
-- Oversampling combined with controlled augmentation improved Recall, segmentation consistency, and minority-class representation.
-
-- The confusion matrix shows strong diagonal concentration, indicating reduced misclassification and improved class-wise prediction stability.
+- The confusion matrix shows strong diagonal concentration, indicating stable class-wise prediction performance with reduced misclassification across hazardous object categories.
 
 </div>
 
@@ -141,8 +139,6 @@ Additionally, valuable components like **motors** are often **misclassified as s
 | Detection mAP@0.5–0.95 | `0.7872` |
 | Mask mAP@0.5 | `0.8276` |
 | Mask mAP@0.5–0.95 | `0.7394` |
-
-> Oversampling combined with controlled augmentation improved minority-class learning and segmentation consistency in cluttered industrial environments.
 
 ---
 
