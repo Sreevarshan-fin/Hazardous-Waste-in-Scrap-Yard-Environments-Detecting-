@@ -118,7 +118,7 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <img align="left" src="assets/confusion matrix.png" width="50%">
 
-##### 🔹 Key Findings
+#### 🔹 Key Findings
 
 - Initial augmentation-only training produced unstable minority-class learning, particularly for **Motors**, **Capacitors**, and **Shock Absorbers** due to limited representation.
 
@@ -132,7 +132,6 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <br clear="left"/>
 
----
 
 #### 🔹 Final Performance
 
