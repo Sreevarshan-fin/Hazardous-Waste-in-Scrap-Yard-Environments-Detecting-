@@ -118,15 +118,15 @@ Additionally, valuable components like **motors** are often **misclassified as s
 
 <img align="left" src="assets/confusion matrix.png" width="50%">
 
-#### 🔹 Key Findings
+##### 🔹 Key Findings
 
 - Initial augmentation-only training produced unstable minority-class learning, particularly for **Motors**, **Capacitors**, and **Shock Absorbers** due to limited representation.
 
 - Oversampling combined with controlled augmentation improved Recall, segmentation consistency, and minority-class representation in cluttered industrial environments.
 
-- The confusion matrix shows strong diagonal concentration, indicating stable class-wise prediction performance with reduced misclassification across hazardous object categories.
+- The confusion matrix shows strong diagonal concentration, indicating reduced misclassification and improved class-wise prediction stability.
 
-- Background confusion was reduced for most classes, improving hazardous-object localization and overall segmentation reliability during industrial monitoring.
+- Reduced background confusion improved hazardous-object localization and overall segmentation reliability.
 
 </div>
 
