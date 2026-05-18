@@ -28,8 +28,11 @@
 
 ### 🔎 Project Overview
 
-Designed and developed a hazardous waste detection system using **YOLOv8 segmentation** to address the challenge of identifying high-risk objects in complex scrap yard environments, where clutter and class imbalance can increase missed detections in safety-critical scenarios. Created and manually annotated a dataset of **250+ images** across **6 hazardous object classes**, applied **class imbalance handling techniques**, and optimized model training for improved detection performance. Deployed the complete system using **AWS EC2, Docker, and cloud-based deployment pipelines** for real-time monitoring, achieving **76.4% Detection Recall**, **85.2% Detection mAP@0.5**, and **82.8% Mask mAP@0.5**, improving detection reliability and reducing missed hazardous object predictions.
+Since you already have a detailed **Problem Statement**, your **Project Overview** should not repeat it. Keep it short and focused on **what you built + results**.
 
+### 🔎 Project Overview
+
+Developed a **YOLOv8 segmentation-based hazardous waste detection system** for real-time identification of high-risk objects in scrap yard environments. Created and manually annotated a dataset of **250+ images** across **6 hazardous object classes**, applied **class imbalance handling** and optimized training strategies to improve performance. Deployed the system using **AWS EC2, Docker, and cloud-based pipelines**, achieving **76.4% Recall**, **85.2% Detection mAP@0.5**, and **82.8% Mask mAP@0.5** for reliable safety-critical monitoring.
 
 -----------------
 
