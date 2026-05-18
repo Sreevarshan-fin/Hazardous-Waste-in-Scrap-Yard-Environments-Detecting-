@@ -26,7 +26,7 @@
 ---
 ### 🔎 Project Overview
 
-An industrial hazardous waste detection system developed using **YOLOv8 segmentation** to identify high-risk objects in complex scrap yard environments. The project includes a dataset of **250+** self-annotated images across **6 hazardous object classes**, along with **imbalance-aware training**, **segmentation modeling**, and **deployment engineering**. The system focuses on improving **high-recall detection** and **Mask mAP** performance for safety-critical monitoring through optimized training strategies and cloud-based real-time deployment.
+Designed and developed an intelligent hazardous waste detection system using **YOLOv8 segmentation** for identifying high-risk objects in complex scrap yard environments. Created and manually annotated a dataset of **250+ images** across **6 hazardous object classes**. Applied techniques to **handle class imbalance** and optimize model performance. Focused on improving **recall** and **Mask mAP** for safety-critical detection tasks. Deployed the model for real-time monitoring using cloud-based deployment methods.
 
 -----------------
 
