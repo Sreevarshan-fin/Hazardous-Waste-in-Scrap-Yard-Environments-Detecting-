@@ -24,11 +24,6 @@
 
 
 ---
-### 🔎 Project Overview
-
-### 🔎 Project Overview
-
-Since you already have a detailed **Problem Statement**, your **Project Overview** should not repeat it. Keep it short and focused on **what you built + results**.
 
 ### 🔎 Project Overview
 
