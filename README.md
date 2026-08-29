@@ -1,7 +1,7 @@
 
-
-![title](assets/Detecting Hazardous Waste In Scrap Yard Environments.png)
-
+<p align="center">
+  <img src="Detecting Hazardous Waste In Scrap Yard Environments.png",width="100%"/>
+</p>
 ----------
 
 <p align="center">
