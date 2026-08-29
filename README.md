@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Detecting Hazardous Waste In Scrap Yard Environments.png",width="100%"/>
+  <img src="assets/Detecting Hazardous Waste In Scrap Yard Environments.png",width="100%"/>
 </p>
 
 ----------
