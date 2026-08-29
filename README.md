@@ -1,6 +1,6 @@
 
 
-![title].(assets/Detecting Hazardous Waste In Scrap Yard Environments.png)
+![title](assets/Detecting Hazardous Waste In Scrap Yard Environments.png)
 
 ----------
 
