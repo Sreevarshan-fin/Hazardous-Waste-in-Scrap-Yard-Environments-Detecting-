@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size:22px;">
-  Hazardous Metal Waste Detection in Scrap Yard Environments
-</h1>
+
+
+![title].(assets/Detecting Hazardous Waste In Scrap Yard Environments.png)
 
 ----------
 
